@@ -8,10 +8,10 @@ I'm mostly active on [Twitter](https://twitter.com/AmphxrosDev) , so if you ever
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=amprubio&show_icons=true&title_color=FFC0C9&text_color=9f9f9f&bg_color=FFF0F0&hide_border=true&icon_color=FFB0C9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=amprubio&show_icons=true&title_color=FFC0C9&text_color=9f9f9f&bg_color=FFFFFF&hide_border=true&icon_color=FFB0C9&hide_title=true&count_private=true" />
 
   <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=amprubio&layout=compact&show_icons=true&title_color=FFB0C9&text_color=9f9f9f&bg_color=FFF0F0&hide_border=true&icon_color=f0f0f000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=amprubio&layout=compact&show_icons=true&title_color=FFB0C9&text_color=9f9f9f&bg_color=FFFFFF&hide_border=true&icon_color=f0f0f000&count_private=true" />
     </td>
 
 
