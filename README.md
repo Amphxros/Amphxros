@@ -5,7 +5,8 @@ I'm mostly active on [Twitter](https://twitter.com/AmphxrosDev) , so if you ever
 
 I have some knowledge of C, C++, C#, HTML, JavaScript and CSS. I only worked in the development of 1 game, [Fighter Traighter 🍂](https://github.com/MoruyankiiFighter/FighterTraighter), where I made almost all of the art, UI design and also some programming parts.
 
-Also I have a little bit of experience in serious games thanks to a college subject, where I made [APTA 🌼](https://github.com/Juegos-Serios/ProyectFinal), in this game I made many programming parts and some of the art
+Also I have a little bit of experience in serious games thanks to a college subject, where I made [APTA 🌼](https://github.com/Juegos-Serios/ProyectFinal), in this game I made many programming parts and some of the art.
+
 
 #### Some stats!
 
