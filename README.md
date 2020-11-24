@@ -10,7 +10,6 @@ I have some knowledge of C, C++, C#, HTML, JavaScript and CSS. I only worked in 
 
 Also I have a little bit of experience in serious games thanks to a college subject, where I made [APTA 🌼](https://github.com/Juegos-Serios/ProyectFinal), in this game I made many programming parts and some of the art.
 
-I'm currently working on a graphic novel made in Unity called [FOG ISLAND (provisional title)](https://github.com/Team-Collier/Devtober2020) where I'm making many programming parts and almost all the dialogues
 
 #### Some stats!
 
