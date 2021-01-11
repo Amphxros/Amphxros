@@ -1,17 +1,19 @@
 
-Hi!! 🌻
-My name is Amparo but please call me Amph, and I am an enthusiast videogame development student focused in designing at Complutense University of Madrid.
+## Hi, I'm Amparo but please call me Amph 🌻
+I am an enthusiast videogame development student at the Complutense University of Madrid, a junior programmer 💻 and an artist.
 
-<img src="https://komarev.com/ghpvc/?username=amprubio" alt="amprubio" />
+## About my experience 💻
 
-I'm mostly active on [Twitter](https://twitter.com/AmphxrosDev) , so if you ever want to get in contact with me then you can best do so by tweeting at me or sending an email at ampxrubio@gmail.com.
-
-I have some knowledge of C, C++, C#, HTML, JavaScript and CSS. I only worked in the development of 1 game, [Fighter Traighter 🍂](https://github.com/MoruyankiiFighter/FighterTraighter) an arcade fighting game made in c++ using SDL, where I made almost all of the art, UI design and also some programming parts.
+I have some knowledge of C, C++, C#, HTML, JavaScript and CSS also a little basic assembly.
+I only worked in the development of a game, [Fighter Traighter 🍂](https://github.com/MoruyankiiFighter/FighterTraighter) an arcade fighting game made in c++ using some libraries like the SDL ones and Box2D for the physics, where I made almost all of the art, UI and some programming parts.
 
 Also I have a little bit of experience in serious games thanks to a college subject, where I made [APTA 🌼](https://github.com/Juegos-Serios/ProyectFinal), in this game I made many programming parts and some of the art.
 
+# you can find me in
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Amphxros_Dev) [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=(https://www.twitch.tv/amphxros))](https://www.twitch.tv/amphxros) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)](https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)
 
-#### Some stats!
+
+#### Some stats about what you can find here!
 
 <table>
   <tr>
@@ -25,3 +27,5 @@ Also I have a little bit of experience in serious games thanks to a college subj
 
   </tr>
 </table>
+
+<img src="https://komarev.com/ghpvc/?username=amprubio" alt="amprubio" />
