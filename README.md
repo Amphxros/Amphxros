@@ -9,8 +9,7 @@ I only worked in the development of a game, [Fighter Traighter 🍂](https://git
 
 Also I have a little bit of experience in serious games thanks to a college subject, where I made [APTA 🌼](https://github.com/Juegos-Serios/ProyectFinal), in this game I made many programming parts and some of the art.
 
-# you can find me in
-![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Amphxros_Dev) [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=(https://www.twitch.tv/amphxros))](https://www.twitch.tv/amphxros) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)](https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)
+## you can find me in  ![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Amphxros_Dev) [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=(https://www.twitch.tv/amphxros))](https://www.twitch.tv/amphxros) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)](https://www.linkedin.com/in/amparo-rubio-bellon-0011b1198/)
 
 
 #### Some stats about what you can find here!
