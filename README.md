@@ -3,7 +3,7 @@
 I am an enthusiast videogame development student at the Complutense University of Madrid, a junior programmer 💻 and an artist.
 
 - 🔭 I’m currently working on a Unity tool for making behaviours trees on the editor
-- 🌱 I’m currently learning AI for gamesand how to make custom tools in Unity
+- 🌱 I’m currently learning AI for games and how to make custom tools in Unity
 - 👯 I’m looking to collaborate on videogames as an 2D artist, game designer or programmer
 - 💬 Ask me about anything, collabs, gamejams...
 - 💌 How to reach me: ampxrubio@gmail.com
