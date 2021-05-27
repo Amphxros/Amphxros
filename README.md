@@ -6,11 +6,12 @@ I am an enthusiast videogame development student at the Complutense University o
 - 🌱 I’m currently learning AI for games and how to make custom tools in Unity
 - 👯 I’m looking to collaborate on videogames as an 2D artist, game designer or programmer
 - 💬 Ask me about anything, collabs, gamejams...
-- 💌 How to reach me: ampxrubio@gmail.com
+- 💌 How to reach me: ampxrubio@gmail.com or via [Twitter](https://twitter.com/AmphxrosDev). I'll be glad to hear from you!
 - 😄 Pronouns: she/they
 - ⚡ [My "portfolio"](https://amprubio.github.io/Portfolio/)
 
 ## About my experience 💻
+
 I have some knowledge of C, C# and C++ mainly but I also have some little knowledge of JS and HTML.
 
 I only worked in the development of a game, [Fighter Traighter 🍂](https://github.com/MoruyankiiFighter/FighterTraighter) an arcade fighting game made in C++ using some libraries like the SDL ones and Box2D for the physics, where I made almost all of the art, UI and some programming parts.
