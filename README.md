@@ -4,9 +4,9 @@ I am an enthusiast videogame development student at the Complutense University o
 
 - 🔭 I’m currently working on a Unity tool for making behaviours trees on the editor
 - 🌱 I’m currently learning AI for games and how to make custom tools in Unity
-- 👯 I’m looking to collaborate on videogames as an 2D artist, game designer or programmer
-- 💬 Ask me about anything, collabs, gamejams...
-- 💌 How to reach me: ampxrubio@gmail.com or via [Twitter](https://twitter.com/AmphxrosDev). I'll be glad to hear from you!
+- 👯 I’m looking to collaborate on videogames as game designer or programmer
+- 💬 Ask me about anything, like collabs as any rol 
+- 💌 My email is: ampxrubio@gmail.com but I am more active via [Twitter](https://twitter.com/AmphxrosDev). I'll be glad to hear from you!
 - 😄 Pronouns: she/they
 - ⚡ [My "portfolio"](https://amprubio.github.io/Portfolio/)
 
