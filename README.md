@@ -1,14 +1,14 @@
 ## My name is Amparo Rubio also known as Amphxros, I am from Spain, and I am a videogame development student at Complutense University of Madrid focusing in programming, art and AI.
 
-- 🌱 I’m currently working on a few new repos most of them are my college projects. Also, I'm currently learning about AI and C.
+- 🌱 I’m currently working on a few new repos most of them are my college projects. Also, learning about AI and C.
 - 📫 How to reach me: 
-     - gmail: 
-     - twitter:
-     - [linkedIn](https://es.linkedin.com/in/amparo-rubio-bellon)
-- ⚡ </b>
+     - 💌 gmail: ampxrubio@gmail.com
+     - 🐦[twitter](https://twitter.com/AmphxrosDev)
+     - 📮[linkedIn](https://es.linkedin.com/in/amparo-rubio-bellon)
+-  </b>
 
 
-### [My Portfolio](https://amphxros.github.io/Portfolio/)
+### [⚡My Portfolio](https://amphxros.github.io/Portfolio/)
 ### For playing my games please check out [My itchio](https://amphxros.itch.io/) 
 
 ### Engines and librarys
