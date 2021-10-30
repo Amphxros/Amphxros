@@ -1,3 +1,6 @@
+My name is Amparo Rubio also known as Amphxros, I am from Spain, and I am a videogame development student at Complutense University of Madrid focusing in programming, art and AI.
+
+![Portfolio](https://amprubio.github.io/Portfolio/)
 
 ### Engines and librarys
 ![Unity](https://img.shields.io/badge/-Unity-%23222222)
