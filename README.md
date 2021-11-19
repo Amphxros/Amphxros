@@ -23,5 +23,5 @@
 ![C](https://img.shields.io/badge/-C-%23F4F4F4)
 ![Java](https://img.shields.io/badge/-Java-%23FF5555)
 
-<a href="https://amphxros.github.io/Portfolio/"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=amphxros&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fa6161,ffc64d,fffc4d,52fa5a&theme=black" /><!-- wi*quL3fcV -->
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://amphxros.github.io/Portfolio/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=amphxros&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fa6161,ffc64d,fffc4d,52fa5a&theme=black" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
