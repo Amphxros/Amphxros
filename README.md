@@ -1,6 +1,6 @@
 ## My name is Amparo Rubio also known as Amphxros, I am from Spain, and I am a videogame development student at Complutense University of Madrid focusing in programming, art and AI.
 
-- 🌱 I’m currently working on a few new repos most of them are my college projects. Also, learning about AI and C.
+- 🌱 I’m currently working on a game Engine called [🛡️ Aegis 🛡️](https://github.com/Proyecto3Grupo02/Aegis).
 - 📫 How to reach me: 
      - 💌 gmail: ampxrubio@gmail.com
      - 🐦[twitter](https://twitter.com/AmphxrosDev)
@@ -15,6 +15,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-%23222222)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-%23AABB44)
 ![SDL](https://img.shields.io/badge/-SDL-%23AA44AA)
+![OGRE](https://img.shields.io/badge/-OGRE-yellow)
 
 ### Languages
 
