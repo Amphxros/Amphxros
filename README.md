@@ -34,4 +34,4 @@ I am Amparo Rubio Bellón but please call me Amph, game programmer currently stu
 ### 🐱 Some stats of my github profile 
 <a href="https://amphxros.github.io/Portfolio/"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=amphxros&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&extra=Proyecto3Grupo02/Aegis, Proyecto3Grupo02/ThrowTheLine&text_color=000&icon_color=000&bg_color=0,fa6161,ffc64d,fffc4d,52fa5a&theme=black" />
 
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&langs_count=16&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&langs_count=6&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
