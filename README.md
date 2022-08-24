@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/37449976/172405236-b52bcedc-a98f-48c7-9f98-93b9fc6b5d6e.png)
-
 Hi there 👋
 
 I am Amparo Rubio Bellón but please call me Amph, game programmer currently studying in [Complutense University Of Madrid](https://www.ucm.es/)
