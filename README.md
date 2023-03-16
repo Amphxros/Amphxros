@@ -30,5 +30,5 @@ I am Amph Rubio Bellón, game programmer currently studying in [Complutense Univ
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 
 ### 🐱 Some stats of my github profile 
-<a href="https://amphxros.github.io/Portfolio/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=amphxros&text_color=000&icon_color=000&bg_color=0,fa6161,ffc64d,fffc4d,52fa5a&&include_all_commits=true&count_private=true&extra=MoruyankiiFighter/FighterTraighter,Proyecto3Grupo02/Aegis,Proyecto3Grupo02/ThrowTheLine" />
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://amphxros.github.io/Portfolio/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=amphxros&theme=midnight-purple&text_color=000000&icon_color=000&bg_color=0,fa5151,ffd64d,fffc4d,52fa5a&&include_all_commits=true&count_private=true&extra=MoruyankiiFighter/FighterTraighter,Proyecto3Grupo02/Aegis,Proyecto3Grupo02/ThrowTheLine" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&theme=midnight-purple&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
