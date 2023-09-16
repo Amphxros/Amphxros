@@ -31,5 +31,15 @@ Here you will find mostly part of my college homework but if you want to know mo
 
 ### 🐱 Some stats of my github profile 
 
-<a href="https://amphxros.github.io/Portfolio/"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=amphxros&theme=midnight-purple&text_color=000000&icon_color=000&bg_color=0,fa5151,ffd64d,fffc4d,52fa5a&&include_all_commits=true&count_private=true&extra=MoruyankiiFighter/FighterTraighter,Proyecto3Grupo02/Aegis,Proyecto3Grupo02/ThrowTheLine" />
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amphxros&theme=midnight-purple&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6-Quotes&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=amphxros&show_icons=true&title_color=0FCCC9&theme=synthwave&text_color=cf0fcf&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=amphxros&layout=compact&show_icons=true&title_color=0FCCC9&bg_color=&theme=synthwave&text_color=cf0fc9&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+> Provided by [`GitHub Readme Stats`]
