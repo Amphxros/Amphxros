@@ -1,36 +1,65 @@
-Hi there 👋
 
-I am Amph Rubio Bellón, game programmer currently studying in [Complutense University Of Madrid](https://www.ucm.es/), making witchcraft in [Little Corvid Studio](https://github.com/Little-Corvid-Studio) as game programmer and teaching kids robotics and visual programming
+<h1 align="center">Hi there 👋
+I am Amparo Rubio Bellón, but everyone calls me Amph 
+(and I invite you to do it!)</h1>
 
+
+Here you will find mostly part of my college homework but if you want to know more about me check out [My Portfolio](https://amphxros.github.io/Portfolio/) where you will find the games, tools I made. Also took part in the creation a 3D game engine called [Aegis🛡️](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
+### Let's colab 🚀
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AmphxrosDev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amparo-rubio-bellon/)
 
-Here you will find mostly part of my college homework but if you want to know more about me check out [My Portfolio](https://amphxros.github.io/Portfolio/) where you will find the games, tools I made. Also took part in the creation a 3D game engine called [Aegis🛡️](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
+<details>
+<summary>📃 My Resume</summary>
 
-### ⚡ Engines and librarys
+## Education
 
-![](https://img.shields.io/badge/Engine-Unity-%234AB197)
-![](https://img.shields.io/badge/Library-OGRE-%234AB197)
-![](https://img.shields.io/badge/Library-SDL-%234AB197)
-![](https://img.shields.io/badge/Library-Physx-%234AB197)
-### 🌱 Languages
+- 📖 **Game development Engineering**\
+  🧭 **Universidad Complutense de Madrid** - Madrid, Spain
 
-![C++](https://img.shields.io/badge/-C%2B%2B-%23FF44AA)
-![C#](https://img.shields.io/badge/-C%23-green)
-![C](https://img.shields.io/badge/-C-%23F4F4F4)
-![Lua](https://img.shields.io/badge/-Lua-blue)
-![Java](https://img.shields.io/badge/-Java-orange)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+## Experience
 
-### Tools
+- 📖 **Gameplay programmer**\ (august 2023 -- currently)
+  🧭 **Little corvid studio** - Remote, Spain
+-  📖 **Robotics teacher**\ (september 2023 -- January 2024)
+  🧭 **Rockbotic** - Madrid, Spain
 
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+## Skills
 
-### 🐱 Some stats of my github profile 
+<!-- Icons: https://github.com/tandpfun/skill-icons -->
+<h3 align="center"> <b>Programming languages(and other "programming" stuff) </b></h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,latex,js,ts&perline=4" />
+  </a>
+</p>
+<h3 align="center"> <b>Game engines </b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot&perline=4" />  
+     </a>
+</p>
+Also I know how to make a custom engine and I worked with PS4 SDKs but due to NDA I can't show anything
+<h3 align="center"> <b>IDEs and tools </b></h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,gradle,eclipse,git,github,blender&perline=4" />
+  </a>
+</p>
+
+<h3 align="center"> <b>Operating systems</b></h3>
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</p>
+
+</details>
+> Provided by [`GitHub Readme Stats`]
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -42,4 +71,4 @@ Here you will find mostly part of my college homework but if you want to know mo
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+
