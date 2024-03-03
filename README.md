@@ -7,6 +7,7 @@ I am Amparo Rubio Bellón, but everyone calls me Amph
 Here you will find mostly part of my college homework but if you want to know more about me check out [My Portfolio](https://amphxros.github.io/Portfolio/) where you will find the games, tools and other stuff I made. Also took part in the creation a 3D game engine called [Aegis🛡️](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
 ### Let's colab 🚀
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AmphxrosDev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amparo-rubio-bellon/)
 
@@ -32,7 +33,7 @@ Here you will find mostly part of my college homework but if you want to know mo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,latex,js,ts,vue,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,lua,py,latex,js,ts,vue,react&perline=4" />
   </a>
 </p>
 <h3 align="center"> <b>Game engines </b></h3>
