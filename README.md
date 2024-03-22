@@ -19,6 +19,9 @@ Here you will find mostly part of my college homework but if you want to know mo
 - 📖 **Game development Engineering**\
   🧭 **Universidad Complutense de Madrid** - Madrid, Spain
 
+-  📖 **Course in Quality Control and Testing in Video Games**
+-  🧭 **Narratech Laboratories and Universidad Complutense de Madrid** - Madrid, Spain
+
 ## Experience
 
 - 📖 **Gameplay programmer**\ (august 2023 -- currently)
@@ -26,10 +29,9 @@ Here you will find mostly part of my college homework but if you want to know mo
 -  📖 **Robotics teacher**\ (september 2023 -- January 2024)
   🧭 **Rockbotic** - Madrid, Spain
 
-## Skills
-
+## Hard Skills 👩‍💻
 <!-- Icons: https://github.com/tandpfun/skill-icons -->
-<h3 align="center"> <b>Programming languages(and other "programming" stuff) </b></h3>
+<h3 align="center"> <b> Programming languages </b></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,8 +58,14 @@ Also I know how to make a custom engine and I worked with PS4 SDKs but due to ND
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
 </p>
+
+## Soft skills 👥
+<p>Empathy, problem solving, proactive, creative </p>
+
+## Languages 💬
+* Spanish: Native
+* English: I don't have a certificate yet but I think it's on B2 almost C1
 
 </details>
 > Provided by [`GitHub Readme Stats`]
