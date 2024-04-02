@@ -20,13 +20,13 @@ Here you will find mostly part of my college homework but if you want to know mo
   🧭 **Universidad Complutense de Madrid** - Madrid, Spain
 
 -  📖 **Course in Quality Control and Testing in Video Games**
--  🧭 **Narratech Laboratories and Universidad Complutense de Madrid** - Madrid, Spain
+   🧭 **Narratech Laboratories and Universidad Complutense de Madrid** - Madrid, Spain
 
 ## Experience
 
 - 📖 **Gameplay programmer**\ (august 2023 -- currently)
   🧭 **Little corvid studio** - Remote, Spain
--  📖 **Robotics teacher**\ (september 2023 -- January 2024)
+- 📖 **Robotics teacher**\ (september 2023 -- January 2024)
   🧭 **Rockbotic** - Madrid, Spain
 
 ## Hard Skills 👩‍💻
