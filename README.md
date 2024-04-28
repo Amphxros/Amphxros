@@ -2,6 +2,11 @@
 <h1 align="center">Hi there 👋
 I am Amparo Rubio Bellón, but everyone calls me Amph 
 (and I invite you to do it!)</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Gamedev;Programming student;Artist;&center=true&width=380&height=45" alt="Typing SVG">
+  </a>
+</p>
 
 
 Here you will find mostly part of my college homework but if you want to know more about me check out [My Portfolio](https://amphxros.github.io/Portfolio/) where you will find the games, tools and other stuff I made. Also took part in the creation a 3D game engine called [Aegis🛡️](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
