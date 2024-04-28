@@ -4,7 +4,7 @@ I am Amparo Rubio Bellón, but everyone calls me Amph
 (and I invite you to do it!)</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Gamedev;Programming student;Artist;&center=true&width=380&height=45" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Gamedev;Programming+student;Artist;&center=true&width=380&height=45" alt="Typing SVG">
   </a>
 </p>
 
