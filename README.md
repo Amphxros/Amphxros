@@ -11,28 +11,33 @@ I am Amparo Rubio Bellón, but everyone calls me Amph
 
 Here you will find mostly part of my college homework but if you want to know more about me check out [My Portfolio](https://amphxros.github.io/Portfolio/) where you will find the games, tools and other stuff I made. Also took part in the creation a 3D game engine called [Aegis🛡️](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
 ### Let's colab 🚀
-🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on my socials!
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AmphxrosDev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amparo-rubio-bellon/)
 
 <details>
 <summary>📃 My Resume</summary>
 
-## Education
-
-- 📖 **Game development Engineering**\
-  🧭 **Universidad Complutense de Madrid** - Madrid, Spain
-
--  📖 **Course in Quality Control and Testing in Video Games**
-   🧭 **Narratech Laboratories and Universidad Complutense de Madrid** - Madrid, Spain
 
 ## Experience
-
+- 📖 **QA Consultant and data analyst**\ ( september 2024 -- currently)
+  🧭 **Specialisterne** - Madrid, Spain  
 - 📖 **Gameplay programmer**\ (august 2023 -- currently)
   🧭 **Little corvid studio** - Remote, Spain
 - 📖 **Robotics teacher**\ (september 2023 -- January 2024)
   🧭 **Rockbotic** - Madrid, Spain
+
+## Education
+
+-  📖 **Game development Engineering**\
+   🧭 **Universidad Complutense de Madrid** - Madrid, Spain
+ ### Complementary
+-  📖 **Course in Software testing and data managment**
+   🧭 **Specialisterne** - Madrid, Spain
+-  📖 **Course in Quality Control and Testing in Video Games**
+   🧭 **Narratech Laboratories and Universidad Complutense de Madrid** - Madrid, Spain
+   
+
 
 ## Hard Skills 👩‍💻
 <!-- Icons: https://github.com/tandpfun/skill-icons -->
@@ -71,6 +76,8 @@ Also I know how to make a custom engine and I worked with PS4 SDKs but due to ND
 ## Languages 💬
 * Spanish: Native
 * English: I don't have a certificate yet but I think it's on B2 almost C1
+* French: I don't have a certificate yet but I think it's on B1
+* Finnish: Really basic level
 
 </details>
 > Provided by [`GitHub Readme Stats`]
