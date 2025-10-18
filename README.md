@@ -20,6 +20,8 @@ Here you will find mostly part of my college homework but if you want to know mo
 
 
 ## Experience
+- 📖 **Gameplay programmer**\ (may 2025 -- currently)
+  🧭 **Mondainai Studio** - Remote, Spain
 - 📖 **QA Consultant and data analyst**\ ( september 2024 -- currently)
   🧭 **Specialisterne** - Madrid, Spain  
 - 📖 **Gameplay programmer**\ (august 2023 -- currently)
