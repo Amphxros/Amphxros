@@ -83,15 +83,11 @@ Also I know how to make a custom engine and I worked with PS4 SDKs but due to ND
 
 </details>
 > Provided by [`GitHub Readme Stats`]
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=amphxros&show_icons=true&title_color=0FCCC9&theme=synthwave&text_color=cf0fcf&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=amphxros&layout=compact&show_icons=true&title_color=0FCCC9&bg_color=&theme=synthwave&text_color=cf0fc9&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Amphxros&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Amphxros&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Amphxros&langs_count=6&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=Amphxros&langs_count=6&theme=ambient_gradient)
+
 </table>
 
 
